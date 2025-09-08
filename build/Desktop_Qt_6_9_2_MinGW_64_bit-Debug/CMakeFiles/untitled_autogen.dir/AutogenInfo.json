@@ -359,6 +359,12 @@
 			null
 		],
 		[
+			"D:/untitled/untitled/inventory.h",
+			"MU",
+			"EWIEGA46WW/moc_inventory.cpp",
+			null
+		],
+		[
 			"D:/untitled/untitled/mainwindow.h",
 			"MU",
 			"EWIEGA46WW/moc_mainwindow.cpp",
@@ -444,6 +450,7 @@
 	[
 		[ "D:/untitled/untitled/element.cpp", "MU", null ],
 		[ "D:/untitled/untitled/elementfactory.cpp", "MU", null ],
+		[ "D:/untitled/untitled/inventory.cpp", "MU", null ],
 		[ "D:/untitled/untitled/main.cpp", "MU", null ],
 		[ "D:/untitled/untitled/mainwindow.cpp", "MU", null ],
 		[ "D:/untitled/untitled/recipe.cpp", "MU", null ]

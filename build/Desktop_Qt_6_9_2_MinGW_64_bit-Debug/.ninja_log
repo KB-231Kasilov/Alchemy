@@ -1,18 +1,12 @@
 # ninja log v6
-21	230	7790334544391329	untitled_autogen/timestamp	4e99676db04c5d86
-21	230	7790334544391329	D:/untitled/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	4e99676db04c5d86
-1102	4257	7784392615175362	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	376cd2121fb9be20
-21	230	7790334544391329	untitled_autogen/mocs_compilation.cpp	4e99676db04c5d86
-21	230	7790334544391329	D:/untitled/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	4e99676db04c5d86
-231	3256	7790334546520672	CMakeFiles/untitled.dir/mainwindow.cpp.obj	3220e093adf66605
-1121	4265	7784392615343915	CMakeFiles/untitled.dir/main.cpp.obj	c419e8ba3d6eaab5
-3256	3568	7790334576773013	untitled.exe	5bff589c35801517
-249	2081	7790334546700836	CMakeFiles/untitled.dir/element.cpp.obj	85b3e0e5e8e1adbf
-252	2084	7790334546740883	CMakeFiles/untitled.dir/recipe.cpp.obj	4439b3db9a995df8
 74	301	7790367813334504	untitled_autogen/timestamp	4e99676db04c5d86
+74	301	7790367813334504	D:/untitled/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	4e99676db04c5d86
+1102	4257	7784392615175362	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	376cd2121fb9be20
 74	301	7790367813334504	untitled_autogen/mocs_compilation.cpp	4e99676db04c5d86
 74	301	7790367813334504	D:/untitled/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	4e99676db04c5d86
-74	301	7790367813334504	D:/untitled/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	4e99676db04c5d86
 320	5013	7790367815724066	CMakeFiles/untitled.dir/elementfactory.cpp.obj	5730e38bf94ef829
 302	6549	7790367815616479	CMakeFiles/untitled.dir/mainwindow.cpp.obj	3220e093adf66605
+1121	4265	7784392615343915	CMakeFiles/untitled.dir/main.cpp.obj	c419e8ba3d6eaab5
 6550	7277	7790367878093769	untitled.exe	2b2c58797b367e56
+249	2081	7790334546700836	CMakeFiles/untitled.dir/element.cpp.obj	85b3e0e5e8e1adbf
+252	2084	7790334546740883	CMakeFiles/untitled.dir/recipe.cpp.obj	4439b3db9a995df8
