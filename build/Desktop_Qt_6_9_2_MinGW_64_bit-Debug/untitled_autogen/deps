@@ -588,5 +588,7 @@ untitled_autogen/timestamp: \
 	D:/untitled/untitled/main.cpp \
 	D:/untitled/untitled/mainwindow.cpp \
 	D:/untitled/untitled/mainwindow.h \
+	D:/untitled/untitled/recipe.cpp \
+	D:/untitled/untitled/recipe.h \
 	D:/untitled/untitled/mainwindow.ui \
 	C:/Qt/Tools/CMake_64/bin/cmake.exe

@@ -1,16 +1,17 @@
 # ninja log v6
-12	1095	7784392614078834	untitled_autogen/timestamp	4e99676db04c5d86
-12	1095	7784392614078834	D:/untitled/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	4e99676db04c5d86
-1102	4257	7784392615175362	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	376cd2121fb9be20
-12	1095	7784392614078834	untitled_autogen/mocs_compilation.cpp	4e99676db04c5d86
-12	1095	7784392614078834	D:/untitled/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	4e99676db04c5d86
-1126	4293	7784392615343915	CMakeFiles/untitled.dir/mainwindow.cpp.obj	3220e093adf66605
-1121	4265	7784392615343915	CMakeFiles/untitled.dir/main.cpp.obj	c419e8ba3d6eaab5
-4294	4799	7784392647101394	untitled.exe	4855455051c5e1dd
 59	314	7784518872537109	untitled_autogen/timestamp	4e99676db04c5d86
+59	314	7784518872537109	D:/untitled/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	4e99676db04c5d86
+1102	4257	7784392615175362	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	376cd2121fb9be20
 59	314	7784518872537109	untitled_autogen/mocs_compilation.cpp	4e99676db04c5d86
 59	314	7784518872537109	D:/untitled/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	4e99676db04c5d86
-59	314	7784518872537109	D:/untitled/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	4e99676db04c5d86
-335	2014	7784518875425530	CMakeFiles/untitled.dir/element.cpp.obj	85b3e0e5e8e1adbf
 315	3194	7784518875225353	CMakeFiles/untitled.dir/mainwindow.cpp.obj	3220e093adf66605
+1121	4265	7784392615343915	CMakeFiles/untitled.dir/main.cpp.obj	c419e8ba3d6eaab5
 3194	3485	7784518904025352	untitled.exe	69bc7aabda0cc218
+335	2014	7784518875425530	CMakeFiles/untitled.dir/element.cpp.obj	85b3e0e5e8e1adbf
+42	293	7790275074943437	untitled_autogen/timestamp	4e99676db04c5d86
+42	293	7790275074943437	untitled_autogen/mocs_compilation.cpp	4e99676db04c5d86
+42	293	7790275074943437	D:/untitled/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	4e99676db04c5d86
+42	293	7790275074943437	D:/untitled/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	4e99676db04c5d86
+314	2255	7790275077586793	CMakeFiles/untitled.dir/recipe.cpp.obj	4439b3db9a995df8
+294	3230	7790275077483135	CMakeFiles/untitled.dir/mainwindow.cpp.obj	3220e093adf66605
+3230	3889	7790275106852329	untitled.exe	5bff589c35801517
