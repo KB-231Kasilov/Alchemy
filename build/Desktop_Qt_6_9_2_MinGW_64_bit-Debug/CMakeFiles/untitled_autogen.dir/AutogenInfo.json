@@ -353,6 +353,12 @@
 			null
 		],
 		[
+			"D:/untitled/untitled/elementfactory.h",
+			"MU",
+			"EWIEGA46WW/moc_elementfactory.cpp",
+			null
+		],
+		[
 			"D:/untitled/untitled/mainwindow.h",
 			"MU",
 			"EWIEGA46WW/moc_mainwindow.cpp",
@@ -437,6 +443,7 @@
 	"SOURCES" : 
 	[
 		[ "D:/untitled/untitled/element.cpp", "MU", null ],
+		[ "D:/untitled/untitled/elementfactory.cpp", "MU", null ],
 		[ "D:/untitled/untitled/main.cpp", "MU", null ],
 		[ "D:/untitled/untitled/mainwindow.cpp", "MU", null ],
 		[ "D:/untitled/untitled/recipe.cpp", "MU", null ]
