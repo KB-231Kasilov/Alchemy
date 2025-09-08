@@ -1,10 +1,10 @@
 #ifndef ELEMENTFACTORY_H
 #define ELEMENTFACTORY_H
 
-#include <QVector>
-#include <QHash>
 #include "element.h"
 #include "recipe.h"
+#include <QVector>
+#include <QHash>
 
 class ElementFactory {
 public:
@@ -18,9 +18,10 @@ private:
     QVector<Element> m_base;
     QVector<Recipe> m_recipes;
     QHash<QString, Element> m_catalog;
-
-    ElementType levelToType(int level) const;
 };
 
 #endif // ELEMENTFACTORY_H
+
+
+
 

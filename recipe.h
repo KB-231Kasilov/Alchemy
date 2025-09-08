@@ -1,25 +1,26 @@
 #ifndef RECIPE_H
 #define RECIPE_H
 
-#include <QString>
 #include "element.h"
+#include <QString>
 
 class Recipe {
 public:
     Recipe();
-    Recipe(const QString &a, const QString &b, const QString &result, int resultLevel);
+    Recipe(const QString &a, const QString &b, const QString &result, int level, const QString &icon);
 
     bool matches(const Element &e1, const Element &e2) const;
-    QString resultName() const;
-    int resultLevel() const;
+    Element createResult() const;
 
 private:
     QString m_a;
     QString m_b;
     QString m_result;
-    int m_resultLevel;
+    int m_level;
+    QString m_icon;
 };
 
 #endif // RECIPE_H
+
 
 
