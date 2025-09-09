@@ -2,6 +2,9 @@
 D:/untitled/untitled/gamelog.cpp
 D:/untitled/untitled/mainwindow.h
  mmc:Q_OBJECT
+ mdp:C:/Qt/6.9.2/mingw_64/include/QtCore/QHash
+ mdp:C:/Qt/6.9.2/mingw_64/include/QtCore/QString
+ mdp:C:/Qt/6.9.2/mingw_64/include/QtCore/QVector
  mdp:C:/Qt/6.9.2/mingw_64/include/QtCore/q17memory.h
  mdp:C:/Qt/6.9.2/mingw_64/include/QtCore/q20functional.h
  mdp:C:/Qt/6.9.2/mingw_64/include/QtCore/q20iterator.h
@@ -124,6 +127,7 @@ D:/untitled/untitled/mainwindow.h
  mdp:C:/Qt/6.9.2/mingw_64/include/QtCore/qutf8stringview.h
  mdp:C:/Qt/6.9.2/mingw_64/include/QtCore/qvariant.h
  mdp:C:/Qt/6.9.2/mingw_64/include/QtCore/qvarlengtharray.h
+ mdp:C:/Qt/6.9.2/mingw_64/include/QtCore/qvector.h
  mdp:C:/Qt/6.9.2/mingw_64/include/QtCore/qversiontagging.h
  mdp:C:/Qt/6.9.2/mingw_64/include/QtCore/qxptype_traits.h
  mdp:C:/Qt/6.9.2/mingw_64/include/QtCore/qyieldcpu.h
@@ -375,11 +379,14 @@ D:/untitled/untitled/mainwindow.h
  mdp:C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h
  mdp:C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h
  mdp:D:/untitled/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/untitled_autogen/moc_predefs.h
+ mdp:D:/untitled/untitled/element.h
+ mdp:D:/untitled/untitled/elementfactory.h
  mdp:D:/untitled/untitled/mainwindow.h
+ mdp:D:/untitled/untitled/recipe.h
 D:/untitled/untitled/player.h
 D:/untitled/untitled/element.cpp
 D:/untitled/untitled/mainwindow.cpp
- uic:./ui_mainwindow.h
+ uic:ui_mainwindow.h
 D:/untitled/untitled/element.h
 D:/untitled/untitled/main.cpp
 D:/untitled/untitled/elementfactory.h

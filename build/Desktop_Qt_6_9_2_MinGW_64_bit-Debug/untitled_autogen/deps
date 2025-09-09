@@ -1,4 +1,7 @@
 untitled_autogen/timestamp: \
+	C:/Qt/6.9.2/mingw_64/include/QtCore/QHash \
+	C:/Qt/6.9.2/mingw_64/include/QtCore/QString \
+	C:/Qt/6.9.2/mingw_64/include/QtCore/QVector \
 	C:/Qt/6.9.2/mingw_64/include/QtCore/q17memory.h \
 	C:/Qt/6.9.2/mingw_64/include/QtCore/q20functional.h \
 	C:/Qt/6.9.2/mingw_64/include/QtCore/q20iterator.h \
@@ -121,6 +124,7 @@ untitled_autogen/timestamp: \
 	C:/Qt/6.9.2/mingw_64/include/QtCore/qutf8stringview.h \
 	C:/Qt/6.9.2/mingw_64/include/QtCore/qvariant.h \
 	C:/Qt/6.9.2/mingw_64/include/QtCore/qvarlengtharray.h \
+	C:/Qt/6.9.2/mingw_64/include/QtCore/qvector.h \
 	C:/Qt/6.9.2/mingw_64/include/QtCore/qversiontagging.h \
 	C:/Qt/6.9.2/mingw_64/include/QtCore/qxptype_traits.h \
 	C:/Qt/6.9.2/mingw_64/include/QtCore/qyieldcpu.h \
