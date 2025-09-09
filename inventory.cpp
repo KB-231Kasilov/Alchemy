@@ -14,4 +14,9 @@ QVector<Element> Inventory::elements() const {
     return m_elements.values().toVector();
 }
 
+int Inventory::unlockedCount() const {
+    return m_elements.size();
+}
+
+
 

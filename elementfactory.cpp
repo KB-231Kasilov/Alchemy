@@ -38,6 +38,10 @@ QVector<Element> ElementFactory::baseElements() const {
     return m_base;
 }
 
+QVector<Element> ElementFactory::allElements() const {
+    return m_catalog.values().toVector();
+}
+
 Element ElementFactory::createElement(const QString &name) const {
     auto it = m_catalog.constFind(name);
     if(it != m_catalog.cend()) return it.value();
@@ -50,6 +54,7 @@ Element ElementFactory::combine(const Element &e1,const Element &e2) const {
             return r.createResult();
     return Element("Неизвестно",0,ElementType::Unknown,"icons/default.png");
 }
+
 
 
 

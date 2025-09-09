@@ -2,6 +2,7 @@ D:/untitled/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/untitled_autogen/
   D:/untitled/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/untitled_autogen/moc_predefs.h \
   C:/Qt/6.9.2/mingw_64/include/QtCore/QHash \
   C:/Qt/6.9.2/mingw_64/include/QtCore/QString \
+  C:/Qt/6.9.2/mingw_64/include/QtCore/QStringList \
   C:/Qt/6.9.2/mingw_64/include/QtCore/QVector \
   C:/Qt/6.9.2/mingw_64/include/QtCore/q17memory.h \
   C:/Qt/6.9.2/mingw_64/include/QtCore/q20functional.h \
@@ -378,4 +379,7 @@ D:/untitled/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/untitled_autogen/
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
   D:/untitled/untitled/element.h \
   D:/untitled/untitled/elementfactory.h \
+  D:/untitled/untitled/gamelog.h \
+  D:/untitled/untitled/inventory.h \
+  D:/untitled/untitled/player.h \
   D:/untitled/untitled/recipe.h

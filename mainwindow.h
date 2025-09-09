@@ -3,6 +3,8 @@
 
 #include <QMainWindow>
 #include "elementfactory.h"
+#include "player.h"
+#include "gamelog.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
@@ -18,14 +20,17 @@ public:
 
 private slots:
     void onCombineClicked();
+    void refreshUi();
 
 private:
     Ui::MainWindow *ui;
     ElementFactory factory;
-
-    void refreshUi();
+    Player player;
+    GameLog gameLog;
 };
 
 #endif // MAINWINDOW_H
+
+
 
 
